@@ -18,7 +18,7 @@ https://lone.netlify.app/
 Clone the project
 
 ```
-git clone https://github.com/abhishekmardiya/shop.com-clone.git
+git clone https://github.com/sagarbhuva43/bluefly-clone
 ```
 
 Install npm packages
@@ -49,6 +49,7 @@ go to http://localhost:3000
 - #### Libraries
   - `Redux`
   - `Material-UI`
+  - react bootstrap
 
 <div style='page-break-after: always'></div>
 
