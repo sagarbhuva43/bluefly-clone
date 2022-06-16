@@ -44,46 +44,11 @@ const SingleProduct = () => {
                     padding: "0 20px",
                   }}
                 >
-                  
+
                     <div>
                       <img src={e.img1} style={{height: "400px"}}/>
                     </div>
-                  
-                  {/* <Carousel
-                    data={[
-                      {
-                        image: `${e.img1}`,
-                      },
-                      {
-                        image: `${e.img2}`,
-                      },
-                      {
-                        image: `${e.img3}`,
-                      },
-                    ]}
-                    time={3000}
-                    width="900px"
-                    height="400px"
-                    // captionStyle={captionStyle}
-                    radius="10px"
-                    slideNumber={true}
-                    // slideNumberStyle={slideNumberStyle}
-                    captionPosition="bottom"
-                    automatic={true}
-                    dots={true}
-                    pauseIconColor="white"
-                    pauseIconSize="40px"
-                    slideBackgroundColor="darkgrey"
-                    slideImageFit="cover"
-                    thumbnails={true}
-                    thumbnailWidth="100px"
-                    style={{
-                      textAlign: "center",
-                      maxWidth: "850px",
-                      maxHeight: "500px",
-                      margin: "10px auto",
-                    }}
-                  /> */}
+      
                 </div>
               </div>
             </div>
