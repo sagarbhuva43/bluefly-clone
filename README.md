@@ -48,8 +48,7 @@ go to http://localhost:3000
   - `ReactJS`
 - #### Libraries
   - `Redux`
-  - `Material-UI`
-  - react bootstrap
+  - `react bootstrap`
 
 <div style='page-break-after: always'></div>
 
