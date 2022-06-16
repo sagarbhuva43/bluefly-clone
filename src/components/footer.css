@@ -1,6 +1,4 @@
-.App{
-  text-align: center;
-}
+
 .footParent {
   display: flex;
   justify-content: space-between;
@@ -84,12 +82,11 @@ button {
 footer {
   display: flex;
   flex-direction: column;
-
 }
 
 .footSection {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   padding-top: 40px;
   margin: auto;
   gap: 10px;
@@ -107,9 +104,7 @@ footer {
 .footSection h3 {
   letter-spacing: 3px;
 }
-.section3{
-  text-align: center;
-}
+
 .section3 > p {
   text-align: left;
   width: 90%;
@@ -206,8 +201,4 @@ footer {
   .policy {
     display: none;
   }
-}
-.btn{
-  height: 50px;
-  text-align: center;
 }
