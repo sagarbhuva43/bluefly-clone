@@ -14,20 +14,23 @@
 
 .card {
   padding: 5%;
-  height: 330px;
+  height: 350px;
   margin-left: 20px;
   margin-bottom: 20px;
   border: 1px solid rgb(242, 234, 234);
+  border-radius: 20px;
 }
 
 .splitmainpage {
   display: flex;
   /* border: 1px solid rgb(12, 193, 154); */
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
 .filter {
   border: 1px solid rgb(225, 216, 225);
   height: max-content;
+  border-radius: 20px;
 }
 .filter > div {
   width: 250px;
@@ -43,7 +46,7 @@
 
 .tit {
   color: #333333;
-  font-size: 15px;
+  font-size: 13px;
   display: inline-block;
   font-weight: 700;
   height: 40px;
@@ -57,11 +60,10 @@
   text-align: center;
   justify-content: center;
 }
-
 .save {
   font-size: 14px;
   font-weight: 400;
-  color: #ff4e4e;
+  /* color: #ff4e4e; */
   white-space: nowrap;
   width: 40%;
 }
@@ -125,12 +127,12 @@ h1 {
   width: 180px;
   margin-left: 0%;
   margin-bottom: 5%;
+  /* text-align: center; */
   /* border: 1px solid rgb(26, 51, 161); */
 }
 
 .pagination {
   justify-content: center;
-  /* margin-left: 30%; */
   display: flex;
   padding-left: 0;
   list-style: none;
@@ -140,8 +142,8 @@ h1 {
 
 .page-item.active .page-link {
   z-index: 3;
-  color: #fff;
-  background-color: #000000;
+  /* color: #fff;
+  background-color: #000000; */
   border-color: transparent;
 }
 
@@ -151,8 +153,8 @@ h1 {
   padding: 0.5rem 0.9rem;
   margin-left: 0;
   line-height: 1.25;
-  color: #fff;
-  background-color: #444343;
+  /* color: #fff;
+  background-color: #444343; */
   border: 0 solid transparent;
 }
 

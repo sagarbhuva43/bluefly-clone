@@ -46,15 +46,15 @@ const SingleProduct = () => {
                 >
 
                     <div>
-                      <img src={e.img1} style={{height: "400px"}}/>
+                      <img src={e.img1} style={{height: "300px"}}/>
                     </div>
-      
+
                 </div>
               </div>
             </div>
             <div className="forinfo">
               <p className="ow">{e.owner}</p>
-              <h1 style={{ fontSize: "30px" }}>{e.title}</h1>
+              <h1 style={{ fontSize: "25px" }}>{e.title}</h1>
               <div className="fl">
                 <p className="price">${e.price}</p>
                 <p className="dis_price">${e.discounted_price}</p>
@@ -62,6 +62,7 @@ const SingleProduct = () => {
               </div>
               <p>Color - {e.color}</p>
               <p>FREE SHIPPING ON ORDERS OVER $99</p>
+              <p>Dec :-{e.des}</p>
               <hr style={{ marginTop: "30px" }} />
 
               {e.size ? (
@@ -85,6 +86,7 @@ const SingleProduct = () => {
                       </p>
                     ))}
                   </div>
+
                 </div>
               ) : null}
               <button onClick={() => displayside()} className="black">
@@ -93,7 +95,7 @@ const SingleProduct = () => {
 
               <p>Usually ships in 1 to 2 business days</p>
               <br />
-              <p>{e.des}</p>
+
               <ul>
                 <li>SKU:{e.code}</li>
               </ul>

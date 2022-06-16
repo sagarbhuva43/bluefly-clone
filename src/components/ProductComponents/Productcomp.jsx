@@ -224,7 +224,7 @@ const Productcomp = () => {
               <Accordion defaultIndex={[0]} allowMultiple>
                 {/* // filter accouring to BESTSELLING */}
                 <AccordionItem>
-                  <Button
+                  {/* <Button
                     colorScheme="teal"
                     variant="ghost"
                     onClick={() => {
@@ -250,18 +250,18 @@ const Productcomp = () => {
                     }}
                   >
                     Reset Filters
-                  </Button>
+                  </Button> */}
                   {/* -------------------------filter-catagory ---------------------*/}
                   <h2>
                     <AccordionButton>
                       <Box flex="1" textAlign="left">
                         CATEGORY
                       </Box>
-                      <AccordionIcon />
+                      <AccordionIcon/>
                     </AccordionButton>
                   </h2>
                   <AccordionPanel pb={4} textAlign="left">
-                    <Checkbox
+                    <Checkbox 
                       value="watch"
                       checked={priceState1}
                       onChange={() => {
@@ -280,7 +280,7 @@ const Productcomp = () => {
                     >
                       Ring
                     </Checkbox>
-                    <br />
+                    <br/>
                     <Checkbox
                       value="earrings"
                       checked={priceState3}

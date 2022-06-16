@@ -43,8 +43,8 @@ export function Cartpage(isOpen, onOpen, onClose, setsidebar, sidebar) {
       alert("Quantity cant be 0");
       return;
     }
-    if (value > 5) {
-      alert("You can't buy more than 5 Products");
+    if (value > 10) {
+      alert("You can't buy more than 10 Products");
       return;
     }
     updatecartqty(value, id);
@@ -88,7 +88,7 @@ export function Cartpage(isOpen, onOpen, onClose, setsidebar, sidebar) {
           </DrawerHeader>
           <DrawerBody>
             {items.map((e) => {
-              return e.id == id ? ( 
+              return e.id == id ? (
                 <Box mb="5">
                   <Grid
                     templateRows="auto"

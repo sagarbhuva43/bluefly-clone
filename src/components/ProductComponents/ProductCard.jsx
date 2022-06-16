@@ -1,7 +1,5 @@
 import "./product.css";
 import { Link } from "react-router-dom";
-
-
 const ProductCard = ({
   id,
   img1,
@@ -12,8 +10,6 @@ const ProductCard = ({
   discounted_price,
   saveupto,
 }) => {
-  // console.log("uii");
-  // const products = useSelector((store) => store.products.products);
   return (
     <div className="card">
       <Link
