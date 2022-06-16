@@ -1,7 +1,7 @@
 # Clone of bluefly.com  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;     &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;   
 <img src="https://cdn.shopify.com/s/files/1/0248/3473/6191/files/Untitled_2_.png_5_x104@2x.png?v=1620852820" width="500px"/> 
 
-In this project I have tried to make a clone of <a href="https://www.shop.com/" target="_blank">Shop.com Website</a>. With The efforts and the technology stack,I was able to clone the front end and added similar looks and features.
+Bluefly is the original online fashion retailer. Today, Bluefly is a fast growing, fashion marketplace offering 3,000+ brands across shoes, handbags, dresses, sportswear, cashmere and even diamonds. Bluefly's curated events bring you the best of the splurge and the steal all in one place and all at compelling discounts.
 
 <div style='page-break-after: always'></div>
 
