@@ -66,18 +66,29 @@ go to http://localhost:3000
 
 ### _Following are the Screenshots for the reference_
 
-<!--   ![](https://miro.medium.com/max/656/1*VkXaOr0bQMO7VdLPJR00eg.png)
+  ![](https://miro.medium.com/max/1400/1*OuqcbeUkNj-rQF0dhAcGbw.png)
 
-  ![](https://miro.medium.com/max/656/1*9SmClqH6ZJuv70eQw7i7sw.png)
+  ![](https://miro.medium.com/max/1400/1*LUSem7ghuObBQLB6OHzl5A.png)
 
-  ![](https://miro.medium.com/max/656/1*GeW_7wruydm8cWEYzDGn5w.png)
+  ![](https://miro.medium.com/max/1400/1*l8TQjf9DznPPqLdKuRpoTA.png)
 
-  ![](https://miro.medium.com/max/656/1*udTD4HFfcXn3x7nIfn_dSg.png)
+  ![](https://miro.medium.com/max/1400/1*e2OieBNDIwQ9UhnuSQu7Hg.png)
 
-  ![](https://miro.medium.com/max/656/1*-6xoQpOaTwpsfMECFEj7KA.png) -->
+  ![](https://miro.medium.com/max/1400/1*QY4VQr-pPjLgIbO0K2vRcQ.png)
+  
+   ![](https://miro.medium.com/max/1400/1*M2A87KdTb2t04lZXROlxOQ.png)
+   
+    ![](https://miro.medium.com/max/1400/1*mlVxZgNyexsyM9zXI8CXRw.png)
+    
+     ![](https://miro.medium.com/max/1400/1*-BWzs9_fK_jZLbJu6Ws1yA.png)
 
+ ![](https://miro.medium.com/max/1400/1*lksY64ClYvvCk7r-i5gPzQ.png)
+ 
+  ![](https://miro.medium.com/max/1400/1*MkvorVeCZvaOUL6sIZQlhQ.png)
+  
+   ![](https://miro.medium.com/max/1400/1*fLkk1PBElPAjBP6V0oVdWQ.png)
 
-### <u>You can read more about our project on our blog : <a href="https://medium.com/@mardiyaabhishek/clone-of-shop-com-fa8bb55976ce" target="_blank">Clone of bluefly.com</a> </u>
+### <u>You can read more about our project on our blog : <a href="https://medium.com/@bhuvasagar632/clone-of-bulefly-com-564d99d1f77b" target="_blank">Clone of bluefly.com</a> </u>
 
 # Thank You :sparkling_heart:
 
