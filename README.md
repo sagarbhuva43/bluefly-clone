@@ -1,4 +1,5 @@
-# Clone of bluefly.com  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;     &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;    <img src="https://cdn.shopify.com/s/files/1/0248/3473/6191/files/Untitled_2_.png_5_x104@2x.png?v=1620852820" width="500px"/> 
+# Clone of bluefly.com  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;     &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;   
+<img src="https://cdn.shopify.com/s/files/1/0248/3473/6191/files/Untitled_2_.png_5_x104@2x.png?v=1620852820" width="500px"/> 
 
 In this project I have tried to make a clone of <a href="https://www.shop.com/" target="_blank">Shop.com Website</a>. With The efforts and the technology stack,I was able to clone the front end and added similar looks and features.
 
@@ -75,7 +76,7 @@ go to http://localhost:3000
   ![](https://miro.medium.com/max/656/1*-6xoQpOaTwpsfMECFEj7KA.png) -->
 
 
-### <u>You can read more about our project on our blog : <a href="https://medium.com/@mardiyaabhishek/clone-of-shop-com-fa8bb55976ce" target="_blank">Clone of Shop.com</a> </u>
+### <u>You can read more about our project on our blog : <a href="https://medium.com/@mardiyaabhishek/clone-of-shop-com-fa8bb55976ce" target="_blank">Clone of bluefly.com</a> </u>
 
 # Thank You :sparkling_heart:
 
