@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# Clone of bluefly.com  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;     &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;    <img src="https://cdn.shopify.com/s/files/1/0248/3473/6191/files/Untitled_2_.png_5_x104@2x.png?v=1620852820" width="500px"/> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project I have tried to make a clone of <a href="https://www.shop.com/" target="_blank">Shop.com Website</a>. With The efforts and the technology stack,I was able to clone the front end and added similar looks and features.
 
-## Available Scripts
+<div style='page-break-after: always'></div>
 
-In the project directory, you can run:
+### <u>Deployed Link</u>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Deployed with Netlify 
+```
+https://lone.netlify.app/
+ ```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### <u>Run Locally</u>
 
-### `npm test`
+Clone the project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+git clone https://github.com/abhishekmardiya/shop.com-clone.git
+```
 
-### `npm run build`
+Install npm packages
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+npm install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Run the surver
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm run start
+```
 
-### `npm run eject`
+View in Browser
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+go to http://localhost:3000
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<div style='page-break-after: always'></div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Tech Stack Used : -
+- #### Framework
+  - `ReactJS`
+- #### Libraries
+  - `Redux`
+  - `Material-UI`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<div style='page-break-after: always'></div>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### <u>Functionalities</u>
 
-### Code Splitting
+- Authentication
+- Login Confirmation
+- Product Page
+- Shopping Cart
+- Payment Integration
+- Order Confirmation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<div style='page-break-after: always'></div>
 
-### Analyzing the Bundle Size
+### _Following are the Screenshots for the reference_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!--   ![](https://miro.medium.com/max/656/1*VkXaOr0bQMO7VdLPJR00eg.png)
 
-### Making a Progressive Web App
+  ![](https://miro.medium.com/max/656/1*9SmClqH6ZJuv70eQw7i7sw.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  ![](https://miro.medium.com/max/656/1*GeW_7wruydm8cWEYzDGn5w.png)
 
-### Advanced Configuration
+  ![](https://miro.medium.com/max/656/1*udTD4HFfcXn3x7nIfn_dSg.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+  ![](https://miro.medium.com/max/656/1*-6xoQpOaTwpsfMECFEj7KA.png) -->
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### <u>You can read more about our project on our blog : <a href="https://medium.com/@mardiyaabhishek/clone-of-shop-com-fa8bb55976ce" target="_blank">Clone of Shop.com</a> </u>
 
-### `npm run build` fails to minify
+# Thank You :sparkling_heart:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
