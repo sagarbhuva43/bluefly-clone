@@ -1,6 +1,4 @@
 import "react-image-gallery/styles/css/image-gallery.css";
-// import { Carousel } from "react-carousel-minimal";
-// import { Link } from "react-router-dom";
 import { useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
 import axios from "axios";
@@ -70,7 +68,7 @@ const SingleProduct = () => {
                   <p>SIZE</p>
                   <div
                     style={{
-                      display: "flex",
+                      display:"flex",
                     }}
                   >
                     {e.size.map((w) => (
@@ -92,10 +90,8 @@ const SingleProduct = () => {
               <button onClick={() => displayside()} className="black">
                 ADD TO CART
               </button>
-
               <p>Usually ships in 1 to 2 business days</p>
-              <br />
-
+              <br/>
               <ul>
                 <li>SKU:{e.code}</li>
               </ul>
@@ -110,5 +106,4 @@ const SingleProduct = () => {
     </div>
   );
 };
-
 export default SingleProduct;
