@@ -11,7 +11,6 @@ Bluefly is the original online fashion retailer. Today, Bluefly is a fast growin
 Deployed with Netlify 
 ```
 https://blue-fly.netlify.app/
-
  ```
 
 ### <u>Run Locally</u>
